@@ -6,11 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mahabubkarim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/mahabubkarim" height="30" width="40" /></a>
-<a href="https:/www.linkedin.com/in/mahabub-karim-58139057/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahabub-karim-58139057/" height="30" width="40" /></a>
-
-<a href="https:/www.linkedin.com/in/mahabub-karim-58139057/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahabub-karim-58139057/" alt="https://www.linkedin.com/in/mahabub-karim-58139057/" height="30" width="40" /></a>
-</p>
-  
+<a href="https:/www.linkedin.com/in/mahabub-karim-58139057/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahabub-karim-58139057/" height="30" width="40" /></a> 
 <a href="https://stackoverflow.com/users/1877019/mahabub-karim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/1877019/mahabub-karim" height="30" width="40" /></a>
 <a href="https://leetcode.com/mahabub_karim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mahabub_karim/" height="30" width="40" /></a>
 </p>
